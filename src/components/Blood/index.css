@@ -1,0 +1,27 @@
+.B {
+  display: flex;
+  flex-direction: row;
+  background-color: #e88282;
+  align-items: center;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 20px;
+}
+.blood-hd {
+  font-size: 25px;
+  color: red;
+  font-family: 'Roboto';
+  margin-left: 5px;
+}
+.blood-img {
+  width: 10%;
+  height: 2%;
+  border-radius: 5px;
+}
+.arrow {
+  margin-left: auto;
+  color: red;
+  height: 30px;
+  width: 25px;
+  cursor: pointer;
+}
